@@ -1,0 +1,43 @@
+/* Estilos CSS */
+.m-1{
+    height: 4%;
+
+
+    background-color: green;
+}
+
+
+.m-2{
+    height: 25%;
+}
+
+
+.c1{
+    background-color: rgb(179, 243, 245);
+    height: 100%;
+
+}
+
+
+.c2{
+ background-color: wheat;
+}
+
+
+.col-10{
+    height: 100%;
+}
+.m-3{
+    height: 15%;
+    background-color: rgb(212, 62, 200);
+ 
+}
+
+
+.c6{
+    background-color: rgb(212, 62, 62);
+    height: 20%;
+
+
+
+}
