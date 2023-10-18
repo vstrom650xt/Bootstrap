@@ -1,43 +1,43 @@
-/* Estilos CSS */
-.m-1{
-    height: 4%;
+.filag{
+
+height: 2%;
+background-color: green;
+
+}
 
 
+
+.filadg{
+    height: 2%;
     background-color: green;
 }
 
-
-.m-2{
-    height: 25%;
-}
-
-
-.c1{
-    background-color: rgb(179, 243, 245);
-    height: 100%;
+.fidocun{
+background-color: red;
 
 }
 
-
-.c2{
- background-color: wheat;
+.fidocdos{
+    background-color: rgb(245, 245, 245);
 }
 
 
-.col-10{
-    height: 100%;
-}
-.m-3{
-    height: 15%;
-    background-color: rgb(212, 62, 200);
- 
+
+.filarosa{
+height: 25px;
+background-color: pink;
+
 }
 
+.cua{
+height: 30px;
+background-color: rgb(254, 255, 192);
+border:  1px solid black;
+}
 
-.c6{
-    background-color: rgb(212, 62, 62);
-    height: 20%;
 
-
-
+.cuapq{
+background-color: blue;
+border: solid 1px black;
+height: 10px;
 }
