@@ -1,6 +1,6 @@
 .filag{
 
-height: 2%;
+height: 5%;
 background-color: green;
 
 }
@@ -8,7 +8,7 @@ background-color: green;
 
 
 .filadg{
-    height: 2%;
+    height: 4%;
     background-color: green;
 }
 
@@ -24,13 +24,13 @@ background-color: red;
 
 
 .filarosa{
-height: 25px;
+height: 50px;
 background-color: pink;
 
 }
 
 .cua{
-height: 30px;
+height: 90px;
 background-color: rgb(254, 255, 192);
 border:  1px solid black;
 }
@@ -39,5 +39,5 @@ border:  1px solid black;
 .cuapq{
 background-color: blue;
 border: solid 1px black;
-height: 10px;
+height: 30px;
 }
