@@ -14,11 +14,12 @@ background-color: green;
 
 .fidocun{
 background-color: red;
-
+overflow: hidden;
 }
 
 .fidocdos{
     background-color: rgb(245, 245, 245);
+
 }
 
 
@@ -40,4 +41,8 @@ border:  1px solid black;
 background-color: blue;
 border: solid 1px black;
 height: 31px;
+}
+#carouselExampleControls{
+
+    height: 15%;
 }
