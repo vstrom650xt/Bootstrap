@@ -1,26 +1,20 @@
 .filag{
-
 height: 6%;
-background-color: green;
-
 }
 
 
 
 .filadg{
     height: 5%;
-    background-color: green;
 }
 
 .fidocun{
-background-color: red;
-overflow: hidden;
-}
-
-.fidocdos{
-    background-color: rgb(245, 245, 245);
+    overflow: hidden;
+    background-image: url(/img/fondo-removebg-preview.png);
 
 }
+
+
 
 
 
@@ -46,3 +40,10 @@ height: 31px;
 
     height: 15%;
 }
+
+.carousel-item img {
+    width: 200px; 
+    height: 400px; 
+    object-fit: cover;
+
+s}
